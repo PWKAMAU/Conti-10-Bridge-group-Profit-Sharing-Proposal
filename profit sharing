@@ -1,0 +1,206 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Conti 10 Bridge Group | Profit Sharing Guide</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, sans-serif;
+            margin: 0;
+            background: #f4f6f8;
+            color: #333;
+            line-height: 1.6;
+        }
+        header {
+            background: linear-gradient(135deg, #0f4c75, #3282b8);
+            color: #fff;
+            padding: 40px 20px;
+            text-align: center;
+        }
+        header h1 {
+            margin: 0;
+            font-size: 2.2rem;
+        }
+        header p {
+            margin-top: 10px;
+            font-size: 1.1rem;
+            opacity: 0.9;
+        }
+        .container {
+            max-width: 900px;
+            margin: 30px auto;
+            padding: 0 20px;
+        }
+        .card {
+            background: #fff;
+            padding: 25px;
+            margin-bottom: 20px;
+            border-radius: 8px;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+        }
+        h2 {
+            color: #0f4c75;
+            margin-top: 0;
+        }
+        ul {
+            padding-left: 20px;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 15px;
+        }
+        table th, table td {
+            border: 1px solid #ddd;
+            padding: 10px;
+            text-align: center;
+        }
+        table th {
+            background: #e9f1f7;
+        }
+        .highlight {
+            background: #e3f2fd;
+            padding: 15px;
+            border-left: 5px solid #3282b8;
+            margin-top: 15px;
+            border-radius: 4px;
+        }
+        footer {
+            text-align: center;
+            padding: 20px;
+            background: #1b262c;
+            color: #ccc;
+            font-size: 0.9rem;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Conti 10 Bridge Group</h1>
+    <p>Profit Sharing Explained – Simple, Fair & Transparent</p>
+</header>
+
+<div class="container">
+
+    <div class="card">
+        <h2>Purpose of This Page</h2>
+        <p>
+            This page explains how <strong>Conti 10 Bridge Group</strong> shares profits from its business activities.
+            The goal is to make everything clear, fair, and easy for every member to understand.
+        </p>
+    </div>
+
+    <div class="card">
+        <h2>When Profits Are Shared</h2>
+        <ul>
+            <li>Profits are shared <strong>once per year</strong>.</li>
+            <li>Sharing happens only <strong>after saving money for the group</strong>.</li>
+            <li>No profits are shared without approval by members.</li>
+        </ul>
+    </div>
+
+    <div class="card">
+        <h2>Group Capital (Savings First)</h2>
+        <p>
+            Before any member receives profit, the group must save part of it.
+        </p>
+        <div class="highlight">
+            <strong>Minimum 30%</strong> of total profit is kept as <strong>group capital</strong>.
+        </div>
+        <p>This money is used for:</p>
+        <ul>
+            <li>Business expansion</li>
+            <li>Emergencies</li>
+            <li>New projects</li>
+            <li>Buying group assets</li>
+        </ul>
+        <p><strong>Note:</strong> Group capital is not shared among members.</p>
+    </div>
+
+    <div class="card">
+        <h2>How Remaining Profits Are Shared</h2>
+        <p>
+            The remaining profit is shared based on effort and commitment, not equally.
+        </p>
+        <table>
+            <tr>
+                <th>Category</th>
+                <th>Percentage</th>
+                <th>What It Means</th>
+            </tr>
+            <tr>
+                <td>Contribution</td>
+                <td>60%</td>
+                <td>How well a member contributes money and resources</td>
+            </tr>
+            <tr>
+                <td>Attendance</td>
+                <td>20%</td>
+                <td>How regularly a member attends meetings</td>
+            </tr>
+            <tr>
+                <td>Participation</td>
+                <td>20%</td>
+                <td>How active a member is in group activities</td>
+            </tr>
+        </table>
+    </div>
+
+    <div class="card">
+        <h2>Example Scenario</h2>
+        <p><strong>Total yearly profit:</strong> KES 100,000</p>
+        <ul>
+            <li>30% saved as group capital → <strong>KES 30,000</strong></li>
+            <li>Profit to be shared → <strong>KES 70,000</strong></li>
+        </ul>
+        <table>
+            <tr>
+                <th>Category</th>
+                <th>Amount (KES)</th>
+            </tr>
+            <tr>
+                <td>Contribution (60%)</td>
+                <td>42,000</td>
+            </tr>
+            <tr>
+                <td>Attendance (20%)</td>
+                <td>14,000</td>
+            </tr>
+            <tr>
+                <td>Participation (20%)</td>
+                <td>14,000</td>
+            </tr>
+        </table>
+    </div>
+
+    <div class="card">
+        <h2>Member Scenarios</h2>
+        <ul>
+            <li><strong>Active member:</strong> Gets a higher share.</li>
+            <li><strong>Money-only member:</strong> Gets less profit.</li>
+            <li><strong>Attendance-only member:</strong> Gets a small share.</li>
+            <li><strong>Dormant member:</strong> Gets very little or no profit.</li>
+        </ul>
+    </div>
+
+    <div class="card">
+        <h2>Final Approval</h2>
+        <p>
+            Profit sharing must be discussed openly and approved at the
+            <strong>Annual General Meeting (AGM)</strong>.
+        </p>
+        <div class="highlight">
+            No leader or individual is allowed to distribute profits alone.
+        </div>
+    </div>
+
+</div>
+
+<footer>
+    <p>&copy; 2026 Conti 10 Bridge Group | Transparency • Fairness • Growth</p>
+</footer>
+
+</body>
+</html>
